@@ -6,6 +6,9 @@ This repository contains a Drum Machine built with React, Vite, Redux, and TypeS
 
 You can view the live demo of the app [here](https://main--sensational-axolotl-63e8bc.netlify.app/).
 
+![image](https://github.com/user-attachments/assets/64ea2b7e-b191-47de-abe5-ef8b6ce95e01)
+
+
 ## Features
 
 - **Drum Pads:** The app includes 9 clickable drum pads, each associated with a specific key on the keyboard.
